@@ -1,0 +1,19 @@
+body{
+    margin: 20px;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.photo{
+    width: 150px;
+}
+.card{
+    width: 400px;
+    margin: 0 auto;
+    padding: 25px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: rgb(169, 243, 58);
+    color: blue;
+    border: 5px solid seagreen;
+}

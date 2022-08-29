@@ -1,0 +1,22 @@
+html{
+    background: gray;
+}
+.orange{
+    width: 400px;
+    height: 100px;
+    background: orangered;
+}
+.white{
+    width: 400px;
+    height: 100px;
+    background: white;
+}
+img{
+    height:100px;
+    margin-left: 120px;
+}
+.green{
+    width: 400px;
+    height: 100px;
+    background: rgb(26, 128, 26);
+}
